@@ -1,2 +1,2 @@
 # projeto_teste
-Projeto para testes.
+Projeto para teste.
